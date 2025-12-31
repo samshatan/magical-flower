@@ -49,7 +49,7 @@ const Hero = ({ onStart }: HeroProps) => {
           fontSize: 'var(--text-4xl)',
           letterSpacing: '-1px'
         }}>
-          Happy<br/>Flowers Day
+          Happy<br/>New Year
         </h1>
         
         <p style={{ 
@@ -57,7 +57,7 @@ const Hero = ({ onStart }: HeroProps) => {
           marginBottom: 'var(--space-8)',
           fontSize: 'var(--text-lg)'
         }}>
-          Use this to make a bouquet for me
+          I tried to make something special for you
         </p>
 
         <button 
@@ -65,7 +65,7 @@ const Hero = ({ onStart }: HeroProps) => {
           className="btn-primary"
           style={{ padding: 'var(--space-4) var(--space-8)' }}
         >
-          <span>Make a Bouquet</span>
+          <span>Happy New Year</span>
           <ArrowRight size={20} />
         </button>
       </div>
